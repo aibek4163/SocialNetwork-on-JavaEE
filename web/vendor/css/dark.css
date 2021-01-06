@@ -1,0 +1,67 @@
+*{
+	margin:0; padding:0;
+	}
+body{
+	margin:auto;
+	color: red;
+	background-color: white;
+}
+.dis{
+	background-color: #3C5263;
+}
+.container{
+	background-color: #3C5263;
+}
+
+.container a{
+	color: white;
+	font-weight: bold;
+}
+
+ .navbar-light a .nav-link{
+	color: white;
+	font-weight: bold;
+}
+.collapse .navbar-nav .nav-item a.navbar-brand{
+	color: white;
+}
+
+.card-h100 a{
+	color: #458AB2;
+}
+
+.card-h100 p{
+	color: #458AB2;
+}
+
+.card-h100{
+	background-color: #FFFFFF;
+}
+
+.nav-scroller a{
+	color: #FFFFFF;
+}
+.container .jumbotron {
+	background-color: white;
+	border: 40px;
+	border-color: black;
+}
+
+.container .nav-scroller{
+	color: #FFFFFF;
+	margin-top: 10px;
+	background-color: #3C5263;
+
+}
+a .p-2{
+
+}
+
+.border{
+	border-color: #FFFFFF;
+}
+
+.card .btn{
+	background-color: white;
+	color: #18A2B7;
+}

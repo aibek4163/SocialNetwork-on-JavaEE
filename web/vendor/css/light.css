@@ -1,0 +1,53 @@
+
+.container .navbar-expand-lg{
+    background-color:#FFFFFF;
+}
+
+.nav-link{
+    color:#878185 ;
+}
+
+.navbar-brand{
+    color:#5A2532;
+}
+
+.a{
+    color:#F9FDF5 ;
+}
+
+.p-2{
+    color:#ACACAC ;
+}
+
+.btn a{
+    color:#F9FDF5 ;
+}
+
+p .lead{
+    color:#9E275D;
+}
+
+p .card-text{
+    color:#9E275D;
+}
+
+.container .jumbotron{
+    color:black;
+    background-color: #FFFFFF;
+    border-color: #641C2D;
+}
+
+
+.card-body p .card-text{
+    color: #162F72;
+}
+
+.jumbotron {
+    border-color: #641C2D;
+}
+
+.container .nav-scroller{
+    color: #F9FDF5;
+    margin-top: 10px;
+    background-color: #FFFFFF;
+}

@@ -1,0 +1,75 @@
+*{
+	margin:0; padding:0;
+}
+
+body{
+	margin:auto;
+	color: red;
+	background-color: white;
+}
+.dis{
+	background-color: #1D1F21;
+}
+.container{
+	background-color: #1D1F21;
+}
+
+.container a{
+	color: white;
+	font-weight: bold;
+}
+
+.navbar-light a .nav-link{
+	color: white;
+	font-weight: bold;
+}
+.collapse .navbar-nav .nav-item a.navbar-brand{
+	color: white;
+}
+
+.container .nav-scroller{
+	color: #272B30;
+}
+
+
+
+h1{
+	color:white;
+}
+p{
+	color:white;
+}
+h5{
+	color: white;
+}
+.nav-scroller a{
+	color: white;
+}
+.container .jumbotron {
+	background-color: #1D1F21;
+	border: 40px;
+	border-color: white;
+}
+
+.brd .jumbotron{
+	border-color: #FFFFFF;
+}
+
+.card .btn{
+	background-color: #1D1F21;
+	color: #18A2B7;
+}
+.form-inline .form-group .form-control{
+	background-color:#1D1F21;
+	color: #98B9C5 ;
+}
+.col-sm-6 .card {
+	border: 2px;
+	border-color: #F8F9FA;
+	background-color: #1D1F21 ;
+}
+
+img {
+	-webkit-filter: grayscale(100%);
+	filter: grayscale(100%);
+}

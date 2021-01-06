@@ -1,0 +1,20 @@
+body{
+    font-size: xx-small;
+}
+
+.dis{
+    font-size: xx-small;
+}
+
+.container .jumbotron{
+    color:#FFFFFF;
+    background-color: #17A2B7;
+    border-color: #9E275D;
+}
+
+
+.container .nav-scroller{
+    color: #F9FDF5;
+    margin-top: 10px;
+    background-color: #2D6B6A;
+}

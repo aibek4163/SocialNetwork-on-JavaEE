@@ -1,0 +1,43 @@
+
+.container .navbar-expand-lg{
+    background-color: #162F72;
+}
+
+.nav-link{
+    color:#F9FDF5 ;
+}
+
+.navbar-brand{
+    color:#F9FDF5 ;
+}
+
+.a{
+    color:#F9FDF5 ;
+}
+
+.p-2{
+    color:#F9FDF5 ;
+}
+
+.btn a{
+    color:#F9FDF5 ;
+}
+
+p{
+    color:#162F72;
+}
+
+.container .jumbotron{
+    color:#162F72;
+    background-color: #F8F9FB;
+}
+
+.card-body p .card-text{
+    color: #162F72;
+}
+
+.container .nav-scroller{
+    color: #F9FDF5;
+    margin-top: 10px;
+    background-color: #162F72;
+}
